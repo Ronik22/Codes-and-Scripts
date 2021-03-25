@@ -1,3 +1,3 @@
-# Codes-and-Scripts
+## Codes-and-Scripts
 
-## Random snippets of code
+Random code snippets
